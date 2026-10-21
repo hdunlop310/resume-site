@@ -6,7 +6,7 @@ export const profile = {
     'Software engineer with 4+ years of Python experience on risk applications, now building frontends in React.',
   location: 'Glasgow, Scotland',
   links: {
-    github: '', // add your GitHub URL here and the buttons appear
+    github: 'https://github.com/hdunlop310',
     linkedin: 'https://www.linkedin.com/in/hdunlop310/',
     email: 'hdunlop310@gmail.com',
   },
@@ -131,6 +131,6 @@ export const projects = [
     description: 'My resume site, built to learn React: React Router, plain CSS, content-driven pages.',
     tags: ['React', 'Vite', 'React Router'],
     url: '',
-    repo: '',
+    repo: 'https://github.com/hdunlop310/resume-site',
   },
 ]

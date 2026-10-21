@@ -4,5 +4,9 @@
   "assets": {
     "directory": "./dist",
     "not_found_handling": "single-page-application"
-  }
+  },
+  "routes": [
+    { "pattern": "dunlopdev.com", "custom_domain": true },
+    { "pattern": "www.dunlopdev.com", "custom_domain": true }
+  ]
 }

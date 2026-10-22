@@ -26,6 +26,7 @@ export const experience = [
       { value: 'React', label: 'current focus' },
     ],
     highlights: [
+      { title: 'AI-driven development', text: 'Experienced in AI-assisted engineering, including creating custom skills and agents.' },
       { title: 'Risk calculation engines', text: 'Python backend development across multiple risk applications.' },
       { title: 'API creation and development', text: 'Designing and building REST APIs.' },
       { title: 'Legacy Python frontends', text: 'Developing and maintaining existing Python-based frontends.' },
@@ -35,7 +36,7 @@ export const experience = [
       { title: 'Chatbot development', text: 'Building simple chatbots.' },
       { title: 'Traders and quants', text: 'Working hands-on with the people who use the tools.' },
     ],
-    tags: ['Python', 'REST APIs', 'React', 'Data Visualisation', 'Orchestration', 'Risk Engines', 'Chatbots'],
+    tags: ['Python', 'AI-Driven Development', 'REST APIs', 'React', 'Data Visualisation', 'Orchestration', 'Risk Engines', 'Chatbots'],
   },
   {
     company: 'JPMorgan Chase',

@@ -83,14 +83,6 @@ export const education = [
       'Web Science',
     ],
   },
-  {
-    school: 'Hamilton College Scotland',
-    course: 'Highers & National 5s',
-    period: '2011 – 2018',
-    grade: 'Highers AAAABB',
-    points: [],
-    modules: [],
-  },
 ]
 
 export const qualifications = [

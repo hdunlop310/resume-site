@@ -94,6 +94,7 @@ export const education = [
 ]
 
 export const qualifications = [
+  { name: 'AWS Certified AI Practitioner', issuer: 'Amazon Web Services', period: 'Oct 2026', url: '' },
   { name: 'AWS Certified Cloud Practitioner', issuer: 'Amazon Web Services', period: '2023 – 2026', url: '' },
   { name: 'Symphony Associate Developer', issuer: 'Symphony', period: '2022', url: '' },
 ]

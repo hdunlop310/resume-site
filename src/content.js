@@ -10,7 +10,7 @@ export const profile = {
     linkedin: 'https://www.linkedin.com/in/hdunlop310/',
     email: 'hdunlop310@gmail.com',
   },
-  cvUrl: '', // e.g. '/cv.pdf' once you put a PDF in /public
+  cvUrl: '/Heather-Dunlop-CV.pdf',
 }
 
 export const experience = [

@@ -95,8 +95,8 @@ export const education = [
 
 export const qualifications = [
   { name: 'AWS Certified AI Practitioner', issuer: 'Amazon Web Services', period: 'Oct 2026', url: 'https://www.credly.com/badges/e83a20ae-ca0c-49b6-b365-f7e12a705bee/public_url' },
-  { name: 'AWS Certified Cloud Practitioner', issuer: 'Amazon Web Services', period: '2023 – 2026', url: '' },
-  { name: 'Symphony Associate Developer', issuer: 'Symphony', period: '2022', url: '' },
+  { name: 'AWS Certified Cloud Practitioner', issuer: 'Amazon Web Services', period: '2023 – 2026', url: 'https://www.credly.com/badges/c4c4d360-71ba-4911-b79d-461b73bfd880/public_url' },
+  { name: 'Symphony Associate Developer', issuer: 'Symphony', period: '2022', url: 'https://www.credly.com/badges/5422ed96-25af-44aa-b3e9-5f388e7bb0fa/public_url' },
 ]
 
 export const projects = [

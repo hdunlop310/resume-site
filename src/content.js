@@ -102,6 +102,15 @@ export const projects = [
     repo: '',
   },
   {
+    name: 'Secret Santa',
+    period: '2026',
+    description:
+      'Free, ad-free Secret Santa web app. Organisers set a budget and exclusions, friends join from an invite link with no account, and names are drawn in secret. Wish lists are only visible to each giver.',
+    tags: ['Python', 'FastAPI', 'PostgreSQL', 'React', 'TypeScript', 'Vite'],
+    url: 'https://secretsanta.dunlopdev.com/new',
+    repo: 'https://github.com/hdunlop310/secret-santa',
+  },
+  {
     name: 'Pub Crawl Live Tracker',
     period: '2026',
     description:

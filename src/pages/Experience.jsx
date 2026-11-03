@@ -39,6 +39,13 @@ export default function Experience() {
             <h2>{e.role}</h2>
             <p className="company">{e.company}</p>
             {e.summary && <p className="summary">{e.summary}</p>}
+            {e.progression && (
+              <ol className="progression" aria-label="Career progression">
+                {e.progression.map((step) => (
+                  <li key={step}>{step}</li>
+                ))}
+              </ol>
+            )}
             {e.stats && <Stats items={e.stats} />}
             {e.highlights && <Highlights items={e.highlights} />}
             {e.points && (

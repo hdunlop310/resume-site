@@ -20,6 +20,7 @@ export const experience = [
     period: 'Sep 2022 – Present',
     location: 'Glasgow, Scotland',
     summary: 'Python backend engineer on risk applications, now moving into frontend with React.',
+    progression: ['Graduate', 'Associate', 'Senior Associate'],
     stats: [
       { value: '4+', label: 'years in Python' },
       { value: 'Risk', label: 'multiple applications' },

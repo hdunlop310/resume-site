@@ -17,14 +17,9 @@ export const experience = [
   {
     company: 'JPMorgan Chase',
     role: 'Senior Associate Software Engineer',
-    period: 'Sep 2022 – Present',
+    period: 'Jan 2025 – Present',
     location: 'Glasgow, Scotland',
     summary: 'Python backend engineer on risk applications, now moving into frontend with React.',
-    progression: [
-      { role: 'Graduate Software Engineer', period: 'Sep 2022 – Jan 2024' },
-      { role: 'Associate Software Engineer', period: 'Jan 2024 – Jan 2025' },
-      { role: 'Senior Associate Software Engineer', period: 'Jan 2025 – Present' },
-    ],
     stats: [
       { value: '4+', label: 'years in Python' },
       { value: 'Risk', label: 'multiple applications' },
@@ -42,6 +37,22 @@ export const experience = [
       { title: 'Traders and quants', text: 'Working hands-on with the people who use the tools.' },
     ],
     tags: ['Python', 'AI-Driven Development', 'REST APIs', 'React', 'Data Visualisation', 'Orchestration', 'Risk Engines', 'Chatbots'],
+  },
+  {
+    company: 'JPMorgan Chase',
+    role: 'Associate Software Engineer',
+    period: 'Jan 2024 – Jan 2025',
+    location: 'Glasgow, Scotland',
+    summary: 'Python backend development on risk applications.',
+    tags: ['Python', 'Risk Engines'],
+  },
+  {
+    company: 'JPMorgan Chase',
+    role: 'Graduate Software Engineer',
+    period: 'Sep 2022 – Jan 2024',
+    location: 'Glasgow, Scotland',
+    summary: 'Joined the graduate programme as a Python backend engineer on risk applications.',
+    tags: ['Python', 'Risk Engines'],
   },
   {
     company: 'JPMorgan Chase',

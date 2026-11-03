@@ -81,7 +81,6 @@ export const education = [
     period: '2018 – 2022',
     grade: '2:1, specialism in Information Security',
     points: [
-      'Final-year project: a Swift app teaching school students how hashing works.',
       'Coached 3rd-year students on their software engineering team project.',
       'Also studied Mathematics, Theology and German.',
     ],
@@ -133,15 +132,6 @@ export const projects = [
       'Live leaderboard, map and reviews for a group pub crawl. No accounts needed, works on any phone, with an organiser mode for editing the route.',
     tags: ['Cloudflare Workers', 'KV', 'JavaScript', 'REST API'],
     url: 'https://pubcrawl.tennentsenjoyer.workers.dev',
-    repo: '',
-  },
-  {
-    name: 'Hashing Education App',
-    period: '2021 – 2022',
-    description:
-      'Final-year university project: a Swift iOS app teaching hashing concepts to high school students through interactive lessons.',
-    tags: ['Swift', 'iOS', 'Cyber Security'],
-    url: '',
     repo: '',
   },
   {

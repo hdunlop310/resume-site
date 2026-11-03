@@ -1,4 +1,4 @@
-import { experience, earlyExperience } from '../content.js'
+import { experience } from '../content.js'
 import Tags from '../components/Tags.jsx'
 
 function Highlights({ items }) {
@@ -52,15 +52,6 @@ export default function Experience() {
           </li>
         ))}
       </ol>
-
-      <h2 className="section-title"><span className="prompt">#</span> early experience</h2>
-      <ul className="bullets">
-        {earlyExperience.map((e) => (
-          <li key={e.company}>
-            <strong>{e.company}</strong> <span className="muted">({e.period})</span>: {e.note}
-          </li>
-        ))}
-      </ul>
     </section>
   )
 }

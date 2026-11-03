@@ -69,11 +69,6 @@ export const experience = [
   },
 ]
 
-export const earlyExperience = [
-  { company: 'IBM', period: 'Aug 2017', note: 'Work experience placement in Greenock & Edinburgh. Updated packages on cloud and Linux machines, and created a visual presentation deck.' },
-  { company: 'British Gas', period: 'Nov 2015', note: 'Work experience placement, Uddingston.' },
-]
-
 export const education = [
   {
     school: 'University of Glasgow',

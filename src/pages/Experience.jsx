@@ -42,7 +42,10 @@ export default function Experience() {
             {e.progression && (
               <ol className="progression" aria-label="Career progression">
                 {e.progression.map((step) => (
-                  <li key={step}>{step}</li>
+                  <li key={step.role}>
+                    <span className="step-role">{step.role}</span>
+                    <span className="step-period">{step.period}</span>
+                  </li>
                 ))}
               </ol>
             )}
